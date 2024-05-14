@@ -1,0 +1,14 @@
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\bin\Debug\net8.0\exercicio do-while.exe
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\bin\Debug\net8.0\exercicio do-while.deps.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\bin\Debug\net8.0\exercicio do-while.runtimeconfig.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\bin\Debug\net8.0\exercicio do-while.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\bin\Debug\net8.0\exercicio do-while.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\exercicio do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\exercicio do-while.AssemblyInfoInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\exercicio do-while.AssemblyInfo.cs
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\exercicio do-while.csproj.CoreCompileInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\exercicio do-while.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\refint\exercicio do-while.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\exercicio do-while.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\exercicio do-while.genruntimeconfig.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio do-while\exercicio do-while\obj\Debug\net8.0\ref\exercicio do-while.dll
